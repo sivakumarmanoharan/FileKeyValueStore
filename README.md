@@ -1,1 +1,1 @@
-# FileKeyValueStore
+This repo contains a File based key- value data system that performs operations like Create, Read, Delete operations. The file size will be less than 1 GB and value will be passed in the form of a JSON object.
